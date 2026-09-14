@@ -115,6 +115,3 @@ Run the complete 14-test suite covering ingestion, vector storage, retrieval, LL
 
 ---
 
-## 7. Zero Emoji & Design Language Integrity
-
-RetroMind strictly prohibits emojis across all UI screens, error messages, code comments, documentation, and LLM responses. The visual design enforces late-1980s CRT retro computing guidelines with high contrast cyber neon color accents (`#ff007f`, `#00ffff`, `#9d4edd`).
